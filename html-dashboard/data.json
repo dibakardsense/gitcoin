@@ -1,24 +1,29 @@
 {
-  "lastUpdated": "2025-08-22T00:00:17.131Z",
+  "lastUpdated": "2025-08-23T00:00:28.896Z",
   "stats": {
     "users": {
-      "count": 81004,
-      "change": 7.1
+      "count": 81414,
+      "change": 9.1
     },
     "revenue": {
-      "amount": 408952,
-      "change": -1.3
+      "amount": 416815,
+      "change": 2.9
     },
     "projects": {
-      "count": 375,
-      "change": -1.4
+      "count": 376,
+      "change": 4
     },
     "tasks": {
-      "count": 2663,
-      "change": 9.7
+      "count": 2676,
+      "change": 3.7
     }
   },
   "activities": [
+    {
+      "type": "task",
+      "title": "New user registered",
+      "timestamp": "2025-08-23T00:00:28.896Z"
+    },
     {
       "type": "payment",
       "title": "System alert",
@@ -38,29 +43,24 @@
       "type": "user",
       "title": "New message",
       "timestamp": "2025-08-19T00:00:42.572Z"
-    },
-    {
-      "type": "task",
-      "title": "Task assigned",
-      "timestamp": "2025-08-18T00:00:40.552Z"
     }
   ],
   "weeklyActivity": [
     {
       "day": "Mon",
-      "value": 18
+      "value": 21
     },
     {
       "day": "Tue",
-      "value": 76
+      "value": 66
     },
     {
       "day": "Wed",
-      "value": 29
+      "value": 35
     },
     {
       "day": "Thu",
-      "value": 100
+      "value": 96
     },
     {
       "day": "Fri",
@@ -68,18 +68,14 @@
     },
     {
       "day": "Sat",
-      "value": 88
+      "value": 82
     },
     {
       "day": "Sun",
-      "value": 52
+      "value": 48
     }
   ],
   "performanceMetrics": [
-    {
-      "date": "2023-11-13",
-      "value": 43
-    },
     {
       "date": "2023-11-14",
       "value": 18
@@ -103,6 +99,10 @@
     {
       "date": "2023-11-19",
       "value": 39
+    },
+    {
+      "date": "2023-11-20",
+      "value": 28
     }
   ]
 }
